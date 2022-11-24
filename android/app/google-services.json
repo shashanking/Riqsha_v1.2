@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "55955607944",
+    "firebase_url": "https://last-mile-5aaf4-default-rtdb.firebaseio.com",
+    "project_id": "last-mile-5aaf4",
+    "storage_bucket": "last-mile-5aaf4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55955607944:android:6500b9c4cfb47b6afb2a3d",
+        "android_client_info": {
+          "package_name": "com.example.last_mile_v2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "55955607944-oj0pjs66utbm8dout1r6od94defr2rnh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.last_mile_v2",
+            "certificate_hash": "5cb3202188e8f1ac2fdcd21e4f5c5351bdcf259c"
+          }
+        },
+        {
+          "client_id": "55955607944-3eha5cj63schjqae2lcgmbob3cf4tdog.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4L29EIwu2DAKKo34OF6xoHCuOkAXkj1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "55955607944-3eha5cj63schjqae2lcgmbob3cf4tdog.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "55955607944-bhqbaj19qlh20hhppa9fm6ngu34o09cp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.lastMileV2"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55955607944:android:1591d5e29a6576f9fb2a3d",
+        "android_client_info": {
+          "package_name": "com.lastmile.riqsha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "55955607944-3eha5cj63schjqae2lcgmbob3cf4tdog.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4L29EIwu2DAKKo34OF6xoHCuOkAXkj1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "55955607944-3eha5cj63schjqae2lcgmbob3cf4tdog.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "55955607944-bhqbaj19qlh20hhppa9fm6ngu34o09cp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.lastMileV2"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
